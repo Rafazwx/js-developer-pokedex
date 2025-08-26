@@ -22,3 +22,9 @@ body {
         border-radius: 1rem;
     }
 }
+
+.favorite-btn.favorited {
+    background-color: gold;
+    color: black;
+    font-weight: bold;
+}
